@@ -1,0 +1,15 @@
+{
+  "originHash" : "f5fc58673e15cd5826924eb4762e607f0a4d97536848e183f0cd99c8d93ab776",
+  "pins" : [
+    {
+      "identity" : "designsystem",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Edgar-AAS/DesignSystem",
+      "state" : {
+        "revision" : "a516f8a111e848579b1ed1d098da30075c4402ab",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
