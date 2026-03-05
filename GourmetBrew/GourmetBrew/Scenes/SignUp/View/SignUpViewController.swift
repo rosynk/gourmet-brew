@@ -59,6 +59,7 @@ final class SignUpViewController: UIViewController {
         l.translatesAutoresizingMaskIntoConstraints = false
         return l
     }()
+        
     
     private let subtitleLabel: DSLabel = {
         let l = DSLabel(fontSize: .body, fontWeight: .regular, color: DSColors.textSecondary)
